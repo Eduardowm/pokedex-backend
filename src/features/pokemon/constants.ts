@@ -1,0 +1,1 @@
+export const POKEMONS_BY_PAGE = 50;
